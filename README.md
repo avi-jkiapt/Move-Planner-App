@@ -1,2 +1,3 @@
 # Move-Planner-App
-&lt;b>Udacity Ajax Course project &lt;/b>
+<b>Udacity Ajax Course project </b>
+It uses The Ney York Times Api to build this app. 
